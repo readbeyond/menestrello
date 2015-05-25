@@ -3,12 +3,15 @@ menestrello
 
 Menestrello is the perfect app for reading+listening Audio-eBooks.
 
-At the moment, this GitHub repo is maintained for the sole purpose
-of letting users of the app to file bug reports and feature requests.
-Please use the [Issue tracker](https://github.com/readbeyond/menestrello/issues).
+On 2015-05-21, we published the source code of [Minstrel](http://www.readbeyond.it/minstrel/),
+you might want to check that GitHub repo out.
 
-We hope to be able to turn Menestrello into a free software, open source project soon.
-To achieve that, we need your help: please spread the word about Menestrello and EPUB 3 Audio-eBooks.
+Menestrello is the official stable release of Minstrel, maintained by ReadBeyond,
+and available on the App Store and on Google Play.
+
+This GitHub repo is maintained for the sole purpose
+of letting users of the official, stable app to file bug reports and feature requests.
+Please use the [Issue tracker](https://github.com/readbeyond/menestrello/issues).
 
 The ReadBeyond Team
 
@@ -16,7 +19,7 @@ The ReadBeyond Team
 
 ## License
 
-Copyright ©2013-2014, ReadBeyond, Padova, Italy
+Copyright ©2013-2015, ReadBeyond, Padova, Italy
 
 All Rights Reserved
 
@@ -24,9 +27,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Privacy Policy
 
-We value your privacy as much as we value ours. ReadBeyond does not collect any data about your eBooks, reading preferences, or reading statistics. On Android, the Network connection permission is requested solely because Menestrello uses a WebView ("in-app browser") to render the eBooks, however the app does not send data to nor receive data from the Internet.
+We value your privacy as much as we value ours. ReadBeyond does not collect any data about your eBooks, reading preferences, or reading statistics. On Android, the Network connection permission is requested solely because Menestrello uses a WebView ("in-app browser") to render the eBooks. The app does not send data to nor receive data from the Internet, except for downloading a file when the user selects "Open with Menestrello" in the browser.
 
 ## Links
+
+### Minstrel
+
+* Web: http://www.readbeyond.it/minstrel/
+* Code: https://github.com/readbeyond/minstrel
 
 ### Menestrello
 
